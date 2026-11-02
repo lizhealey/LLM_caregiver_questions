@@ -1,0 +1,11 @@
+# Applies to every Streamlit app run from this folder. These apps are local-only
+# tools, so the deploy button, the developer menu and the rest of the top bar are
+# hidden, and nothing is reported back to Streamlit.
+[client]
+toolbarMode = "minimal"
+
+[ui]
+hideTopBar = true
+
+[browser]
+gatherUsageStats = false
