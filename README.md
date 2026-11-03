@@ -5,11 +5,17 @@
 
 ## Code/
 1_submit_batch.ipynb --> generates prompts, submits API batch, and saves subset for chat interface eval
+
 2_LLM_judge.ipynb --> runs LLM judge using LLM_judge.py
+
 3_analyze.ipynb --> Generates Figure 1
+
 4_human_eval/ --> random subset generation code, GUI for human eval 
+
 5_kappa/ --> generates kappa result 
+
 6_example.ipynb --> randomly loads three examples 
+
 
 ## data/
 Contains all data artifacts. 
